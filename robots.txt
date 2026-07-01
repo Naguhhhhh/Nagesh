@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naguhhhhh.github.io/Nagesh/sitemap.xml
